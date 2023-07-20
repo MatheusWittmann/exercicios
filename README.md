@@ -1,3 +1,3 @@
 # Meu repositórios de exercícios
 
-Textinho de intro.
+Textinho de intro, com alterações.
